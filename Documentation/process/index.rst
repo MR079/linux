@@ -20,7 +20,6 @@ Below are the essential guides that every developer should read.
    :maxdepth: 1
 
    howto
-   code-of-conduct
    development-process
    submitting-patches
    coding-style
